@@ -1,0 +1,151 @@
+product_id,product_name,category,sub_category
+PROD-014,Technology Phones 21,Technology,Phones
+PROD-027,Technology Machines 21,Technology,Machines
+PROD-030,Office Supplies Binders 46,Office Supplies,Binders
+PROD-033,Furniture Tables 67,Furniture,Tables
+PROD-017,Office Supplies Binders 104,Office Supplies,Binders
+PROD-060,Furniture Chairs 135,Furniture,Chairs
+PROD-066,Furniture Chairs 32,Furniture,Chairs
+PROD-054,Technology Machines 188,Technology,Machines
+PROD-030,Furniture Chairs 147,Furniture,Chairs
+PROD-034,Furniture Bookcases 96,Furniture,Bookcases
+PROD-076,Office Supplies Paper 154,Office Supplies,Paper
+PROD-039,Technology Phones 100,Technology,Phones
+PROD-058,Furniture Tables 96,Furniture,Tables
+PROD-033,Furniture Chairs 189,Furniture,Chairs
+PROD-046,Technology Machines 130,Technology,Machines
+PROD-068,Furniture Bookcases 58,Furniture,Bookcases
+PROD-024,Furniture Tables 192,Furniture,Tables
+PROD-030,Technology Phones 17,Technology,Phones
+PROD-009,Furniture Tables 199,Furniture,Tables
+PROD-053,Office Supplies Art 151,Office Supplies,Art
+PROD-076,Furniture Bookcases 9,Furniture,Bookcases
+PROD-005,Office Supplies Paper 29,Office Supplies,Paper
+PROD-061,Furniture Tables 108,Furniture,Tables
+PROD-072,Office Supplies Art 61,Office Supplies,Art
+PROD-006,Technology Phones 58,Technology,Phones
+PROD-057,Furniture Chairs 146,Furniture,Chairs
+PROD-072,Technology Phones 102,Technology,Phones
+PROD-063,Furniture Tables 145,Furniture,Tables
+PROD-005,Furniture Chairs 119,Furniture,Chairs
+PROD-001,Furniture Tables 149,Furniture,Tables
+PROD-074,Technology Accessories 83,Technology,Accessories
+PROD-072,Furniture Chairs 39,Furniture,Chairs
+PROD-057,Office Supplies Paper 145,Office Supplies,Paper
+PROD-030,Technology Machines 79,Technology,Machines
+PROD-029,Technology Machines 132,Technology,Machines
+PROD-055,Office Supplies Binders 80,Office Supplies,Binders
+PROD-032,Technology Machines 178,Technology,Machines
+PROD-012,Furniture Tables 90,Furniture,Tables
+PROD-001,Office Supplies Paper 8,Office Supplies,Paper
+PROD-003,Furniture Bookcases 111,Furniture,Bookcases
+PROD-044,Technology Accessories 25,Technology,Accessories
+PROD-008,Furniture Chairs 168,Furniture,Chairs
+PROD-033,Furniture Bookcases 181,Furniture,Bookcases
+PROD-036,Office Supplies Binders 152,Office Supplies,Binders
+PROD-008,Technology Accessories 26,Technology,Accessories
+PROD-014,Technology Phones 64,Technology,Phones
+PROD-044,Office Supplies Binders 130,Office Supplies,Binders
+PROD-009,Furniture Tables 162,Furniture,Tables
+PROD-035,Technology Machines 165,Technology,Machines
+PROD-023,Furniture Bookcases 63,Furniture,Bookcases
+PROD-067,Technology Phones 135,Technology,Phones
+PROD-027,Technology Accessories 183,Technology,Accessories
+PROD-052,Furniture Tables 184,Furniture,Tables
+PROD-020,Technology Phones 11,Technology,Phones
+PROD-060,Office Supplies Paper 171,Office Supplies,Paper
+PROD-023,Furniture Chairs 1,Furniture,Chairs
+PROD-074,Office Supplies Binders 180,Office Supplies,Binders
+PROD-034,Furniture Chairs 91,Furniture,Chairs
+PROD-026,Furniture Bookcases 156,Furniture,Bookcases
+PROD-013,Office Supplies Binders 179,Office Supplies,Binders
+PROD-038,Technology Machines 179,Technology,Machines
+PROD-055,Technology Phones 32,Technology,Phones
+PROD-051,Office Supplies Art 97,Office Supplies,Art
+PROD-055,Technology Accessories 176,Technology,Accessories
+PROD-001,Office Supplies Art 47,Office Supplies,Art
+PROD-009,Furniture Bookcases 53,Furniture,Bookcases
+PROD-009,Technology Accessories 40,Technology,Accessories
+PROD-037,Office Supplies Binders 75,Office Supplies,Binders
+PROD-027,Office Supplies Paper 57,Office Supplies,Paper
+PROD-062,Technology Accessories 122,Technology,Accessories
+PROD-036,Office Supplies Paper 113,Office Supplies,Paper
+PROD-062,Technology Machines 109,Technology,Machines
+PROD-035,Technology Accessories 131,Technology,Accessories
+PROD-057,Office Supplies Binders 55,Office Supplies,Binders
+PROD-072,Furniture Bookcases 25,Furniture,Bookcases
+PROD-007,Office Supplies Binders 14,Office Supplies,Binders
+PROD-018,Technology Phones 187,Technology,Phones
+PROD-039,Office Supplies Art 15,Office Supplies,Art
+PROD-030,Furniture Chairs 13,Furniture,Chairs
+PROD-030,Furniture Tables 153,Furniture,Tables
+PROD-048,Technology Machines 193,Technology,Machines
+PROD-039,Furniture Tables 184,Furniture,Tables
+PROD-057,Technology Accessories 169,Technology,Accessories
+PROD-050,Furniture Tables 82,Furniture,Tables
+PROD-011,Office Supplies Binders 105,Office Supplies,Binders
+PROD-011,Technology Machines 187,Technology,Machines
+PROD-077,Office Supplies Art 81,Office Supplies,Art
+PROD-019,Office Supplies Binders 80,Office Supplies,Binders
+PROD-060,Furniture Bookcases 7,Furniture,Bookcases
+PROD-031,Furniture Bookcases 82,Furniture,Bookcases
+PROD-060,Office Supplies Paper 192,Office Supplies,Paper
+PROD-022,Furniture Bookcases 196,Furniture,Bookcases
+PROD-076,Office Supplies Art 164,Office Supplies,Art
+PROD-046,Technology Machines 29,Technology,Machines
+PROD-022,Furniture Bookcases 27,Furniture,Bookcases
+PROD-003,Technology Phones 1,Technology,Phones
+PROD-072,Office Supplies Paper 60,Office Supplies,Paper
+PROD-064,Office Supplies Binders 172,Office Supplies,Binders
+PROD-002,Furniture Tables 88,Furniture,Tables
+PROD-041,Technology Phones 136,Technology,Phones
+PROD-002,Technology Accessories 33,Technology,Accessories
+PROD-044,Furniture Chairs 49,Furniture,Chairs
+PROD-062,Technology Phones 111,Technology,Phones
+PROD-012,Technology Machines 87,Technology,Machines
+PROD-070,Furniture Chairs 146,Furniture,Chairs
+PROD-007,Technology Accessories 76,Technology,Accessories
+PROD-066,Furniture Tables 79,Furniture,Tables
+PROD-015,Office Supplies Paper 99,Office Supplies,Paper
+PROD-002,Office Supplies Paper 70,Office Supplies,Paper
+PROD-011,Furniture Bookcases 10,Furniture,Bookcases
+PROD-037,Technology Accessories 175,Technology,Accessories
+PROD-002,Furniture Chairs 37,Furniture,Chairs
+PROD-020,Office Supplies Binders 181,Office Supplies,Binders
+PROD-023,Office Supplies Art 128,Office Supplies,Art
+PROD-005,Office Supplies Binders 86,Office Supplies,Binders
+PROD-047,Technology Accessories 113,Technology,Accessories
+PROD-066,Technology Phones 192,Technology,Phones
+PROD-004,Office Supplies Art 102,Office Supplies,Art
+PROD-076,Technology Accessories 199,Technology,Accessories
+PROD-072,Technology Phones 110,Technology,Phones
+PROD-025,Office Supplies Paper 12,Office Supplies,Paper
+PROD-047,Furniture Tables 117,Furniture,Tables
+PROD-029,Technology Phones 156,Technology,Phones
+PROD-074,Technology Accessories 39,Technology,Accessories
+PROD-044,Furniture Bookcases 120,Furniture,Bookcases
+PROD-010,Furniture Tables 122,Furniture,Tables
+PROD-060,Furniture Chairs 167,Furniture,Chairs
+PROD-021,Office Supplies Binders 150,Office Supplies,Binders
+PROD-064,Furniture Bookcases 35,Furniture,Bookcases
+PROD-042,Technology Phones 32,Technology,Phones
+PROD-068,Technology Phones 13,Technology,Phones
+PROD-070,Furniture Tables 130,Furniture,Tables
+PROD-031,Technology Accessories 47,Technology,Accessories
+PROD-023,Furniture Bookcases 92,Furniture,Bookcases
+PROD-072,Technology Accessories 32,Technology,Accessories
+PROD-002,Furniture Chairs 193,Furniture,Chairs
+PROD-012,Technology Machines 49,Technology,Machines
+PROD-021,Office Supplies Paper 163,Office Supplies,Paper
+PROD-036,Office Supplies Art 95,Office Supplies,Art
+PROD-008,Office Supplies Binders 149,Office Supplies,Binders
+PROD-031,Office Supplies Binders 5,Office Supplies,Binders
+PROD-073,Technology Accessories 156,Technology,Accessories
+PROD-038,Office Supplies Paper 178,Office Supplies,Paper
+PROD-062,Technology Phones 149,Technology,Phones
+PROD-053,Office Supplies Paper 82,Office Supplies,Paper
+PROD-034,Furniture Chairs 52,Furniture,Chairs
+PROD-041,Office Supplies Art 129,Office Supplies,Art
+PROD-059,Office Supplies Binders 177,Office Supplies,Binders
+PROD-077,Technology Phones 87,Technology,Phones
+PROD-011,Technology Phones 180,Technology,Phones

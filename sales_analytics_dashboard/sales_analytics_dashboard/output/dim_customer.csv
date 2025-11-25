@@ -1,0 +1,151 @@
+customer_id,customer_name,segment,country,region,state,city
+CUS-004,Customer 033,Consumer,India,West,Telangana,Bangalore
+CUS-008,Customer 027,Corporate,India,East,Telangana,Chennai
+CUS-017,Customer 028,Home Office,India,West,Tamil Nadu,New Delhi
+CUS-021,Customer 032,Consumer,India,North,Telangana,Chennai
+CUS-027,Customer 002,Home Office,India,South,Maharashtra,Mumbai
+CUS-024,Customer 013,Consumer,India,South,Tamil Nadu,Mumbai
+CUS-015,Customer 028,Home Office,India,South,Delhi,Chennai
+CUS-006,Customer 015,Corporate,India,North,Maharashtra,Mumbai
+CUS-016,Customer 013,Home Office,India,North,Delhi,Chennai
+CUS-001,Customer 001,Consumer,India,North,Karnataka,New Delhi
+CUS-029,Customer 003,Corporate,India,West,Telangana,Hyderabad
+CUS-026,Customer 021,Corporate,India,South,Delhi,Hyderabad
+CUS-010,Customer 019,Home Office,India,North,Delhi,Mumbai
+CUS-035,Customer 033,Corporate,India,North,Delhi,Chennai
+CUS-013,Customer 012,Consumer,India,South,Tamil Nadu,New Delhi
+CUS-034,Customer 007,Corporate,India,North,Maharashtra,Mumbai
+CUS-037,Customer 009,Corporate,India,North,Karnataka,New Delhi
+CUS-013,Customer 023,Consumer,India,West,Telangana,New Delhi
+CUS-019,Customer 012,Consumer,India,East,Karnataka,New Delhi
+CUS-021,Customer 036,Consumer,India,North,Telangana,Chennai
+CUS-011,Customer 018,Home Office,India,North,Tamil Nadu,Hyderabad
+CUS-027,Customer 002,Corporate,India,West,Maharashtra,Bangalore
+CUS-031,Customer 019,Corporate,India,East,Karnataka,Hyderabad
+CUS-020,Customer 028,Corporate,India,North,Telangana,Mumbai
+CUS-033,Customer 038,Consumer,India,North,Delhi,Bangalore
+CUS-019,Customer 020,Home Office,India,East,Delhi,Hyderabad
+CUS-032,Customer 016,Corporate,India,East,Karnataka,Chennai
+CUS-036,Customer 027,Consumer,India,West,Delhi,Hyderabad
+CUS-010,Customer 030,Corporate,India,East,Telangana,Bangalore
+CUS-013,Customer 033,Home Office,India,East,Karnataka,Chennai
+CUS-037,Customer 010,Consumer,India,East,Telangana,Hyderabad
+CUS-028,Customer 031,Corporate,India,West,Karnataka,Bangalore
+CUS-030,Customer 030,Consumer,India,West,Karnataka,New Delhi
+CUS-038,Customer 034,Corporate,India,East,Tamil Nadu,New Delhi
+CUS-017,Customer 005,Home Office,India,West,Delhi,Mumbai
+CUS-011,Customer 023,Consumer,India,South,Telangana,Mumbai
+CUS-027,Customer 029,Home Office,India,West,Karnataka,Chennai
+CUS-001,Customer 005,Corporate,India,South,Telangana,Hyderabad
+CUS-026,Customer 036,Consumer,India,North,Tamil Nadu,Hyderabad
+CUS-014,Customer 007,Corporate,India,West,Maharashtra,Hyderabad
+CUS-039,Customer 017,Corporate,India,East,Karnataka,Hyderabad
+CUS-022,Customer 034,Home Office,India,North,Maharashtra,New Delhi
+CUS-006,Customer 037,Home Office,India,West,Maharashtra,Chennai
+CUS-031,Customer 037,Home Office,India,East,Karnataka,Chennai
+CUS-015,Customer 011,Corporate,India,North,Tamil Nadu,Bangalore
+CUS-012,Customer 001,Consumer,India,East,Delhi,Bangalore
+CUS-023,Customer 010,Consumer,India,North,Maharashtra,Mumbai
+CUS-014,Customer 011,Consumer,India,East,Tamil Nadu,Bangalore
+CUS-014,Customer 030,Consumer,India,West,Tamil Nadu,Bangalore
+CUS-038,Customer 033,Consumer,India,North,Maharashtra,Chennai
+CUS-006,Customer 006,Home Office,India,South,Telangana,Chennai
+CUS-033,Customer 037,Corporate,India,East,Delhi,Hyderabad
+CUS-036,Customer 024,Home Office,India,South,Karnataka,Hyderabad
+CUS-027,Customer 005,Corporate,India,East,Tamil Nadu,Chennai
+CUS-013,Customer 018,Corporate,India,South,Tamil Nadu,New Delhi
+CUS-022,Customer 011,Corporate,India,North,Tamil Nadu,Hyderabad
+CUS-009,Customer 009,Home Office,India,North,Tamil Nadu,Hyderabad
+CUS-018,Customer 027,Home Office,India,South,Tamil Nadu,Mumbai
+CUS-029,Customer 022,Consumer,India,East,Delhi,Hyderabad
+CUS-007,Customer 001,Consumer,India,West,Delhi,Hyderabad
+CUS-014,Customer 002,Consumer,India,West,Tamil Nadu,Mumbai
+CUS-034,Customer 033,Corporate,India,South,Maharashtra,Chennai
+CUS-037,Customer 003,Corporate,India,West,Tamil Nadu,Hyderabad
+CUS-021,Customer 014,Consumer,India,South,Tamil Nadu,New Delhi
+CUS-018,Customer 002,Consumer,India,West,Telangana,Chennai
+CUS-038,Customer 030,Consumer,India,West,Delhi,Hyderabad
+CUS-017,Customer 014,Corporate,India,West,Tamil Nadu,Bangalore
+CUS-029,Customer 034,Corporate,India,South,Delhi,Mumbai
+CUS-012,Customer 023,Corporate,India,North,Telangana,Bangalore
+CUS-026,Customer 021,Consumer,India,North,Maharashtra,Hyderabad
+CUS-011,Customer 011,Consumer,India,East,Maharashtra,Hyderabad
+CUS-036,Customer 020,Corporate,India,West,Telangana,Bangalore
+CUS-025,Customer 039,Consumer,India,West,Karnataka,Bangalore
+CUS-017,Customer 010,Home Office,India,West,Tamil Nadu,Hyderabad
+CUS-016,Customer 006,Corporate,India,North,Karnataka,Hyderabad
+CUS-026,Customer 021,Home Office,India,West,Maharashtra,Bangalore
+CUS-030,Customer 039,Home Office,India,East,Telangana,Mumbai
+CUS-026,Customer 023,Consumer,India,North,Maharashtra,Chennai
+CUS-035,Customer 034,Home Office,India,South,Delhi,Mumbai
+CUS-016,Customer 010,Consumer,India,West,Telangana,Bangalore
+CUS-037,Customer 025,Corporate,India,North,Maharashtra,New Delhi
+CUS-037,Customer 006,Consumer,India,West,Tamil Nadu,Mumbai
+CUS-010,Customer 034,Consumer,India,West,Tamil Nadu,New Delhi
+CUS-020,Customer 035,Home Office,India,East,Karnataka,Bangalore
+CUS-037,Customer 034,Corporate,India,North,Karnataka,Bangalore
+CUS-025,Customer 005,Home Office,India,West,Maharashtra,Bangalore
+CUS-028,Customer 005,Consumer,India,South,Telangana,New Delhi
+CUS-033,Customer 006,Consumer,India,West,Maharashtra,Chennai
+CUS-027,Customer 038,Home Office,India,North,Telangana,Mumbai
+CUS-030,Customer 039,Consumer,India,South,Maharashtra,Chennai
+CUS-017,Customer 031,Consumer,India,South,Tamil Nadu,Bangalore
+CUS-030,Customer 037,Home Office,India,North,Maharashtra,New Delhi
+CUS-014,Customer 029,Corporate,India,North,Maharashtra,Chennai
+CUS-023,Customer 026,Corporate,India,South,Tamil Nadu,Chennai
+CUS-014,Customer 020,Corporate,India,North,Tamil Nadu,New Delhi
+CUS-019,Customer 005,Corporate,India,East,Telangana,Chennai
+CUS-016,Customer 027,Home Office,India,West,Delhi,Mumbai
+CUS-003,Customer 029,Home Office,India,South,Maharashtra,New Delhi
+CUS-038,Customer 022,Consumer,India,North,Delhi,New Delhi
+CUS-033,Customer 038,Consumer,India,South,Tamil Nadu,Hyderabad
+CUS-010,Customer 032,Consumer,India,South,Delhi,New Delhi
+CUS-015,Customer 034,Corporate,India,South,Maharashtra,Mumbai
+CUS-028,Customer 020,Corporate,India,East,Karnataka,Mumbai
+CUS-014,Customer 011,Home Office,India,South,Maharashtra,Chennai
+CUS-032,Customer 018,Home Office,India,North,Telangana,Hyderabad
+CUS-029,Customer 015,Home Office,India,West,Maharashtra,Chennai
+CUS-032,Customer 036,Corporate,India,West,Delhi,New Delhi
+CUS-018,Customer 021,Consumer,India,North,Delhi,Chennai
+CUS-014,Customer 039,Corporate,India,South,Telangana,Bangalore
+CUS-023,Customer 031,Consumer,India,East,Karnataka,New Delhi
+CUS-020,Customer 028,Consumer,India,West,Tamil Nadu,New Delhi
+CUS-020,Customer 014,Consumer,India,East,Delhi,Chennai
+CUS-014,Customer 012,Consumer,India,East,Telangana,Bangalore
+CUS-038,Customer 020,Home Office,India,North,Tamil Nadu,Mumbai
+CUS-008,Customer 029,Consumer,India,West,Maharashtra,Hyderabad
+CUS-026,Customer 008,Consumer,India,South,Maharashtra,Mumbai
+CUS-026,Customer 028,Consumer,India,West,Telangana,Hyderabad
+CUS-011,Customer 004,Home Office,India,North,Telangana,Hyderabad
+CUS-015,Customer 001,Consumer,India,East,Karnataka,Bangalore
+CUS-026,Customer 011,Corporate,India,North,Tamil Nadu,New Delhi
+CUS-029,Customer 026,Consumer,India,West,Maharashtra,New Delhi
+CUS-021,Customer 023,Home Office,India,East,Maharashtra,New Delhi
+CUS-004,Customer 027,Corporate,India,North,Tamil Nadu,Mumbai
+CUS-011,Customer 007,Corporate,India,West,Maharashtra,Bangalore
+CUS-007,Customer 001,Corporate,India,South,Delhi,New Delhi
+CUS-009,Customer 015,Corporate,India,South,Delhi,Bangalore
+CUS-024,Customer 019,Corporate,India,East,Telangana,New Delhi
+CUS-034,Customer 033,Home Office,India,South,Telangana,Bangalore
+CUS-025,Customer 002,Consumer,India,North,Telangana,Hyderabad
+CUS-019,Customer 004,Corporate,India,North,Tamil Nadu,New Delhi
+CUS-006,Customer 039,Home Office,India,East,Karnataka,Bangalore
+CUS-003,Customer 022,Consumer,India,South,Tamil Nadu,New Delhi
+CUS-013,Customer 029,Consumer,India,West,Delhi,Mumbai
+CUS-016,Customer 030,Home Office,India,North,Delhi,New Delhi
+CUS-022,Customer 018,Corporate,India,North,Telangana,New Delhi
+CUS-002,Customer 021,Home Office,India,South,Delhi,Bangalore
+CUS-022,Customer 037,Home Office,India,East,Tamil Nadu,Chennai
+CUS-009,Customer 015,Corporate,India,South,Tamil Nadu,New Delhi
+CUS-025,Customer 033,Corporate,India,West,Maharashtra,Bangalore
+CUS-025,Customer 013,Corporate,India,East,Tamil Nadu,Bangalore
+CUS-002,Customer 023,Corporate,India,East,Telangana,Chennai
+CUS-035,Customer 021,Consumer,India,North,Karnataka,Chennai
+CUS-029,Customer 036,Home Office,India,West,Karnataka,Hyderabad
+CUS-005,Customer 002,Corporate,India,South,Telangana,Hyderabad
+CUS-026,Customer 021,Consumer,India,North,Karnataka,Hyderabad
+CUS-026,Customer 004,Home Office,India,East,Telangana,New Delhi
+CUS-017,Customer 009,Consumer,India,North,Maharashtra,Hyderabad
+CUS-034,Customer 008,Home Office,India,West,Telangana,New Delhi
+CUS-037,Customer 008,Home Office,India,West,Delhi,Bangalore
+CUS-031,Customer 036,Corporate,India,North,Delhi,Hyderabad

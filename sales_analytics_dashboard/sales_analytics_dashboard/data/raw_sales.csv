@@ -1,0 +1,151 @@
+order_id,order_date,ship_date,customer_id,customer_name,segment,country,region,state,city,product_id,product_name,category,sub_category,sales,quantity,discount,profit
+ORD-1000,2019-04-13,2019-04-16,CUS-004,Customer 033,Consumer,India,West,Telangana,Bangalore,PROD-014,Technology Phones 21,Technology,Phones,24.96,2,0.1,3.07
+ORD-1001,2020-03-11,2020-03-16,CUS-008,Customer 027,Corporate,India,East,Telangana,Chennai,PROD-027,Technology Machines 21,Technology,Machines,664.46,1,0.3,-150.55
+ORD-1002,2019-09-28,2019-10-02,CUS-017,Customer 028,Home Office,India,West,Tamil Nadu,New Delhi,PROD-030,Office Supplies Binders 46,Office Supplies,Binders,585.37,1,0.0,62.95
+ORD-1003,2019-04-17,2019-04-22,CUS-021,Customer 032,Consumer,India,North,Telangana,Chennai,PROD-033,Furniture Tables 67,Furniture,Tables,382.76,9,0.0,107.97
+ORD-1004,2019-03-13,2019-03-16,CUS-027,Customer 002,Home Office,India,South,Maharashtra,Mumbai,PROD-017,Office Supplies Binders 104,Office Supplies,Binders,406.8,6,0.1,74.24
+ORD-1005,2020-12-01,2020-12-04,CUS-024,Customer 013,Consumer,India,South,Tamil Nadu,Mumbai,PROD-060,Furniture Chairs 135,Furniture,Chairs,708.43,7,0.0,87.94
+ORD-1006,2019-01-21,2019-01-27,CUS-015,Customer 028,Home Office,India,South,Delhi,Chennai,PROD-066,Furniture Chairs 32,Furniture,Chairs,210.39,8,0.3,-31.73
+ORD-1007,2020-09-06,2020-09-10,CUS-006,Customer 015,Corporate,India,North,Maharashtra,Mumbai,PROD-054,Technology Machines 188,Technology,Machines,55.22,9,0.1,4.73
+ORD-1008,2019-05-02,2019-05-04,CUS-016,Customer 013,Home Office,India,North,Delhi,Chennai,PROD-030,Furniture Chairs 147,Furniture,Chairs,831.31,5,0.2,-106.96
+ORD-1009,2020-04-11,2020-04-13,CUS-001,Customer 001,Consumer,India,North,Karnataka,New Delhi,PROD-034,Furniture Bookcases 96,Furniture,Bookcases,444.85,7,0.1,-19.42
+ORD-1010,2019-08-03,2019-08-08,CUS-029,Customer 003,Corporate,India,West,Telangana,Hyderabad,PROD-076,Office Supplies Paper 154,Office Supplies,Paper,720.3,8,0.0,86.42
+ORD-1011,2019-11-27,2019-12-03,CUS-026,Customer 021,Corporate,India,South,Delhi,Hyderabad,PROD-039,Technology Phones 100,Technology,Phones,137.76,5,0.2,-19.26
+ORD-1012,2020-04-03,2020-04-04,CUS-010,Customer 019,Home Office,India,North,Delhi,Mumbai,PROD-058,Furniture Tables 96,Furniture,Tables,445.17,7,0.1,46.28
+ORD-1013,2019-03-29,2019-04-03,CUS-035,Customer 033,Corporate,India,North,Delhi,Chennai,PROD-033,Furniture Chairs 189,Furniture,Chairs,690.28,8,0.3,-61.71
+ORD-1014,2020-01-08,2020-01-14,CUS-013,Customer 012,Consumer,India,South,Tamil Nadu,New Delhi,PROD-046,Technology Machines 130,Technology,Machines,942.64,3,0.0,273.65
+ORD-1015,2019-04-10,2019-04-14,CUS-034,Customer 007,Corporate,India,North,Maharashtra,Mumbai,PROD-068,Furniture Bookcases 58,Furniture,Bookcases,625.89,7,0.0,133.9
+ORD-1016,2020-10-25,2020-10-29,CUS-037,Customer 009,Corporate,India,North,Karnataka,New Delhi,PROD-024,Furniture Tables 192,Furniture,Tables,636.36,8,0.3,-92.6
+ORD-1017,2019-05-11,2019-05-15,CUS-013,Customer 023,Consumer,India,West,Telangana,New Delhi,PROD-030,Technology Phones 17,Technology,Phones,737.01,4,0.1,9.22
+ORD-1018,2020-10-23,2020-10-27,CUS-019,Customer 012,Consumer,India,East,Karnataka,New Delhi,PROD-009,Furniture Tables 199,Furniture,Tables,506.63,9,0.1,12.37
+ORD-1019,2019-11-05,2019-11-09,CUS-021,Customer 036,Consumer,India,North,Telangana,Chennai,PROD-053,Office Supplies Art 151,Office Supplies,Art,951.6,3,0.1,102.73
+ORD-1020,2019-12-10,2019-12-16,CUS-011,Customer 018,Home Office,India,North,Tamil Nadu,Hyderabad,PROD-076,Furniture Bookcases 9,Furniture,Bookcases,109.38,7,0.1,9.56
+ORD-1021,2020-05-06,2020-05-12,CUS-027,Customer 002,Corporate,India,West,Maharashtra,Bangalore,PROD-005,Office Supplies Paper 29,Office Supplies,Paper,625.85,6,0.2,-27.21
+ORD-1022,2020-02-18,2020-02-21,CUS-031,Customer 019,Corporate,India,East,Karnataka,Hyderabad,PROD-061,Furniture Tables 108,Furniture,Tables,986.91,1,0.1,151.19
+ORD-1023,2020-01-21,2020-01-23,CUS-020,Customer 028,Corporate,India,North,Telangana,Mumbai,PROD-072,Office Supplies Art 61,Office Supplies,Art,435.74,3,0.2,-18.03
+ORD-1024,2019-07-11,2019-07-15,CUS-033,Customer 038,Consumer,India,North,Delhi,Bangalore,PROD-006,Technology Phones 58,Technology,Phones,749.33,3,0.0,81.96
+ORD-1025,2019-10-04,2019-10-05,CUS-019,Customer 020,Home Office,India,East,Delhi,Hyderabad,PROD-057,Furniture Chairs 146,Furniture,Chairs,62.3,5,0.3,-7.36
+ORD-1026,2019-06-10,2019-06-16,CUS-032,Customer 016,Corporate,India,East,Karnataka,Chennai,PROD-072,Technology Phones 102,Technology,Phones,232.47,1,0.0,52.13
+ORD-1027,2020-04-04,2020-04-05,CUS-036,Customer 027,Consumer,India,West,Delhi,Hyderabad,PROD-063,Furniture Tables 145,Furniture,Tables,204.36,8,0.1,1.5
+ORD-1028,2019-11-10,2019-11-11,CUS-010,Customer 030,Corporate,India,East,Telangana,Bangalore,PROD-005,Furniture Chairs 119,Furniture,Chairs,422.98,3,0.0,120.61
+ORD-1029,2019-01-22,2019-01-23,CUS-013,Customer 033,Home Office,India,East,Karnataka,Chennai,PROD-001,Furniture Tables 149,Furniture,Tables,814.34,1,0.2,-1.19
+ORD-1030,2019-09-10,2019-09-13,CUS-037,Customer 010,Consumer,India,East,Telangana,Hyderabad,PROD-074,Technology Accessories 83,Technology,Accessories,697.88,5,0.2,26.15
+ORD-1031,2020-07-14,2020-07-20,CUS-028,Customer 031,Corporate,India,West,Karnataka,Bangalore,PROD-072,Furniture Chairs 39,Furniture,Chairs,461.53,1,0.2,-37.53
+ORD-1032,2020-04-19,2020-04-20,CUS-030,Customer 030,Consumer,India,West,Karnataka,New Delhi,PROD-057,Office Supplies Paper 145,Office Supplies,Paper,529.9,6,0.2,-10.58
+ORD-1033,2019-02-28,2019-03-04,CUS-038,Customer 034,Corporate,India,East,Tamil Nadu,New Delhi,PROD-030,Technology Machines 79,Technology,Machines,432.13,5,0.0,90.68
+ORD-1034,2020-05-25,2020-05-30,CUS-017,Customer 005,Home Office,India,West,Delhi,Mumbai,PROD-029,Technology Machines 132,Technology,Machines,906.08,4,0.0,161.73
+ORD-1035,2020-11-12,2020-11-13,CUS-011,Customer 023,Consumer,India,South,Telangana,Mumbai,PROD-055,Office Supplies Binders 80,Office Supplies,Binders,502.27,4,0.3,-119.81
+ORD-1036,2020-04-20,2020-04-23,CUS-027,Customer 029,Home Office,India,West,Karnataka,Chennai,PROD-032,Technology Machines 178,Technology,Machines,156.05,8,0.3,-31.92
+ORD-1037,2020-11-30,2020-12-06,CUS-001,Customer 005,Corporate,India,South,Telangana,Hyderabad,PROD-012,Furniture Tables 90,Furniture,Tables,239.37,5,0.0,32.62
+ORD-1038,2019-07-09,2019-07-12,CUS-026,Customer 036,Consumer,India,North,Tamil Nadu,Hyderabad,PROD-001,Office Supplies Paper 8,Office Supplies,Paper,146.17,9,0.1,21.9
+ORD-1039,2020-11-17,2020-11-18,CUS-014,Customer 007,Corporate,India,West,Maharashtra,Hyderabad,PROD-003,Furniture Bookcases 111,Furniture,Bookcases,200.83,8,0.1,1.81
+ORD-1040,2020-07-16,2020-07-22,CUS-039,Customer 017,Corporate,India,East,Karnataka,Hyderabad,PROD-044,Technology Accessories 25,Technology,Accessories,754.62,2,0.1,29.08
+ORD-1041,2020-07-20,2020-07-25,CUS-022,Customer 034,Home Office,India,North,Maharashtra,New Delhi,PROD-008,Furniture Chairs 168,Furniture,Chairs,601.72,4,0.1,88.63
+ORD-1042,2019-09-01,2019-09-02,CUS-006,Customer 037,Home Office,India,West,Maharashtra,Chennai,PROD-033,Furniture Bookcases 181,Furniture,Bookcases,391.2,5,0.1,68.43
+ORD-1043,2020-05-19,2020-05-22,CUS-031,Customer 037,Home Office,India,East,Karnataka,Chennai,PROD-036,Office Supplies Binders 152,Office Supplies,Binders,169.8,7,0.3,-35.63
+ORD-1044,2019-05-11,2019-05-13,CUS-015,Customer 011,Corporate,India,North,Tamil Nadu,Bangalore,PROD-008,Technology Accessories 26,Technology,Accessories,409.9,4,0.2,22.24
+ORD-1045,2020-04-29,2020-05-03,CUS-012,Customer 001,Consumer,India,East,Delhi,Bangalore,PROD-014,Technology Phones 64,Technology,Phones,774.1,6,0.1,23.94
+ORD-1046,2020-10-08,2020-10-11,CUS-023,Customer 010,Consumer,India,North,Maharashtra,Mumbai,PROD-044,Office Supplies Binders 130,Office Supplies,Binders,515.98,4,0.0,94.5
+ORD-1047,2019-01-21,2019-01-27,CUS-014,Customer 011,Consumer,India,East,Tamil Nadu,Bangalore,PROD-009,Furniture Tables 162,Furniture,Tables,106.11,5,0.0,25.47
+ORD-1048,2019-06-16,2019-06-17,CUS-014,Customer 030,Consumer,India,West,Tamil Nadu,Bangalore,PROD-035,Technology Machines 165,Technology,Machines,927.92,6,0.3,-36.69
+ORD-1049,2019-10-01,2019-10-05,CUS-038,Customer 033,Consumer,India,North,Maharashtra,Chennai,PROD-023,Furniture Bookcases 63,Furniture,Bookcases,671.89,4,0.0,180.94
+ORD-1050,2020-01-23,2020-01-24,CUS-006,Customer 006,Home Office,India,South,Telangana,Chennai,PROD-067,Technology Phones 135,Technology,Phones,247.57,1,0.2,-13.38
+ORD-1051,2020-08-23,2020-08-29,CUS-033,Customer 037,Corporate,India,East,Delhi,Hyderabad,PROD-027,Technology Accessories 183,Technology,Accessories,156.49,1,0.3,-10.11
+ORD-1052,2019-11-12,2019-11-13,CUS-036,Customer 024,Home Office,India,South,Karnataka,Hyderabad,PROD-052,Furniture Tables 184,Furniture,Tables,220.45,2,0.1,16.2
+ORD-1053,2019-01-14,2019-01-16,CUS-027,Customer 005,Corporate,India,East,Tamil Nadu,Chennai,PROD-020,Technology Phones 11,Technology,Phones,549.06,4,0.3,-31.31
+ORD-1054,2019-08-30,2019-09-03,CUS-013,Customer 018,Corporate,India,South,Tamil Nadu,New Delhi,PROD-060,Office Supplies Paper 171,Office Supplies,Paper,355.67,6,0.3,-51.25
+ORD-1055,2019-12-12,2019-12-16,CUS-022,Customer 011,Corporate,India,North,Tamil Nadu,Hyderabad,PROD-023,Furniture Chairs 1,Furniture,Chairs,713.09,1,0.3,-111.52
+ORD-1056,2020-07-18,2020-07-24,CUS-009,Customer 009,Home Office,India,North,Tamil Nadu,Hyderabad,PROD-074,Office Supplies Binders 180,Office Supplies,Binders,985.14,4,0.1,157.0
+ORD-1057,2019-12-06,2019-12-08,CUS-018,Customer 027,Home Office,India,South,Tamil Nadu,Mumbai,PROD-034,Furniture Chairs 91,Furniture,Chairs,611.65,3,0.2,-28.36
+ORD-1058,2019-04-02,2019-04-05,CUS-029,Customer 022,Consumer,India,East,Delhi,Hyderabad,PROD-026,Furniture Bookcases 156,Furniture,Bookcases,52.19,3,0.1,-0.31
+ORD-1059,2020-01-02,2020-01-03,CUS-007,Customer 001,Consumer,India,West,Delhi,Hyderabad,PROD-013,Office Supplies Binders 179,Office Supplies,Binders,524.87,1,0.3,-70.99
+ORD-1060,2020-03-30,2020-04-04,CUS-014,Customer 002,Consumer,India,West,Tamil Nadu,Mumbai,PROD-038,Technology Machines 179,Technology,Machines,362.4,1,0.0,52.34
+ORD-1061,2020-03-03,2020-03-04,CUS-034,Customer 033,Corporate,India,South,Maharashtra,Chennai,PROD-055,Technology Phones 32,Technology,Phones,347.68,7,0.2,13.32
+ORD-1062,2020-05-23,2020-05-24,CUS-037,Customer 003,Corporate,India,West,Tamil Nadu,Hyderabad,PROD-051,Office Supplies Art 97,Office Supplies,Art,665.75,1,0.0,70.23
+ORD-1063,2019-02-04,2019-02-07,CUS-021,Customer 014,Consumer,India,South,Tamil Nadu,New Delhi,PROD-055,Technology Accessories 176,Technology,Accessories,809.21,8,0.1,81.57
+ORD-1064,2019-07-25,2019-07-26,CUS-018,Customer 002,Consumer,India,West,Telangana,Chennai,PROD-001,Office Supplies Art 47,Office Supplies,Art,640.58,1,0.2,39.74
+ORD-1065,2019-03-22,2019-03-24,CUS-038,Customer 030,Consumer,India,West,Delhi,Hyderabad,PROD-009,Furniture Bookcases 53,Furniture,Bookcases,274.23,2,0.2,-0.67
+ORD-1066,2020-07-15,2020-07-17,CUS-017,Customer 014,Corporate,India,West,Tamil Nadu,Bangalore,PROD-009,Technology Accessories 40,Technology,Accessories,768.33,8,0.0,205.23
+ORD-1067,2020-01-23,2020-01-27,CUS-029,Customer 034,Corporate,India,South,Delhi,Mumbai,PROD-037,Office Supplies Binders 75,Office Supplies,Binders,414.5,9,0.1,46.12
+ORD-1068,2019-01-02,2019-01-08,CUS-012,Customer 023,Corporate,India,North,Telangana,Bangalore,PROD-027,Office Supplies Paper 57,Office Supplies,Paper,539.07,4,0.0,63.89
+ORD-1069,2020-01-25,2020-01-30,CUS-026,Customer 021,Consumer,India,North,Maharashtra,Hyderabad,PROD-062,Technology Accessories 122,Technology,Accessories,737.54,2,0.3,-67.65
+ORD-1070,2020-07-19,2020-07-20,CUS-011,Customer 011,Consumer,India,East,Maharashtra,Hyderabad,PROD-036,Office Supplies Paper 113,Office Supplies,Paper,182.96,1,0.2,-23.31
+ORD-1071,2019-04-16,2019-04-17,CUS-036,Customer 020,Corporate,India,West,Telangana,Bangalore,PROD-062,Technology Machines 109,Technology,Machines,618.2,6,0.1,30.39
+ORD-1072,2020-04-21,2020-04-24,CUS-025,Customer 039,Consumer,India,West,Karnataka,Bangalore,PROD-035,Technology Accessories 131,Technology,Accessories,630.87,2,0.0,85.86
+ORD-1073,2020-12-03,2020-12-09,CUS-017,Customer 010,Home Office,India,West,Tamil Nadu,Hyderabad,PROD-057,Office Supplies Binders 55,Office Supplies,Binders,22.29,3,0.1,-1.09
+ORD-1074,2020-02-06,2020-02-08,CUS-016,Customer 006,Corporate,India,North,Karnataka,Hyderabad,PROD-072,Furniture Bookcases 25,Furniture,Bookcases,104.97,8,0.2,3.47
+ORD-1075,2020-12-30,2021-01-04,CUS-026,Customer 021,Home Office,India,West,Maharashtra,Bangalore,PROD-007,Office Supplies Binders 14,Office Supplies,Binders,653.73,9,0.0,142.17
+ORD-1076,2020-07-09,2020-07-13,CUS-030,Customer 039,Home Office,India,East,Telangana,Mumbai,PROD-018,Technology Phones 187,Technology,Phones,736.4,3,0.3,-162.88
+ORD-1077,2019-06-11,2019-06-13,CUS-026,Customer 023,Consumer,India,North,Maharashtra,Chennai,PROD-039,Office Supplies Art 15,Office Supplies,Art,56.27,8,0.2,-0.55
+ORD-1078,2019-07-21,2019-07-27,CUS-035,Customer 034,Home Office,India,South,Delhi,Mumbai,PROD-030,Furniture Chairs 13,Furniture,Chairs,668.42,2,0.0,181.47
+ORD-1079,2019-09-27,2019-10-01,CUS-016,Customer 010,Consumer,India,West,Telangana,Bangalore,PROD-030,Furniture Tables 153,Furniture,Tables,940.29,3,0.2,93.54
+ORD-1080,2019-09-28,2019-10-01,CUS-037,Customer 025,Corporate,India,North,Maharashtra,New Delhi,PROD-048,Technology Machines 193,Technology,Machines,532.07,1,0.1,-26.16
+ORD-1081,2020-03-31,2020-04-03,CUS-037,Customer 006,Consumer,India,West,Tamil Nadu,Mumbai,PROD-039,Furniture Tables 184,Furniture,Tables,64.2,1,0.0,14.12
+ORD-1082,2020-04-06,2020-04-07,CUS-010,Customer 034,Consumer,India,West,Tamil Nadu,New Delhi,PROD-057,Technology Accessories 169,Technology,Accessories,608.78,2,0.0,143.57
+ORD-1083,2020-12-27,2021-01-02,CUS-020,Customer 035,Home Office,India,East,Karnataka,Bangalore,PROD-050,Furniture Tables 82,Furniture,Tables,783.99,6,0.0,50.54
+ORD-1084,2019-09-09,2019-09-14,CUS-037,Customer 034,Corporate,India,North,Karnataka,Bangalore,PROD-011,Office Supplies Binders 105,Office Supplies,Binders,170.82,3,0.1,18.06
+ORD-1085,2020-12-02,2020-12-06,CUS-025,Customer 005,Home Office,India,West,Maharashtra,Bangalore,PROD-011,Technology Machines 187,Technology,Machines,146.92,9,0.2,13.06
+ORD-1086,2019-10-23,2019-10-25,CUS-028,Customer 005,Consumer,India,South,Telangana,New Delhi,PROD-077,Office Supplies Art 81,Office Supplies,Art,24.98,5,0.3,-3.15
+ORD-1087,2020-12-25,2020-12-31,CUS-033,Customer 006,Consumer,India,West,Maharashtra,Chennai,PROD-019,Office Supplies Binders 80,Office Supplies,Binders,490.97,3,0.1,45.58
+ORD-1088,2020-12-20,2020-12-26,CUS-027,Customer 038,Home Office,India,North,Telangana,Mumbai,PROD-060,Furniture Bookcases 7,Furniture,Bookcases,869.95,9,0.0,225.54
+ORD-1089,2019-12-04,2019-12-07,CUS-030,Customer 039,Consumer,India,South,Maharashtra,Chennai,PROD-031,Furniture Bookcases 82,Furniture,Bookcases,962.09,9,0.2,67.12
+ORD-1090,2019-02-22,2019-02-23,CUS-017,Customer 031,Consumer,India,South,Tamil Nadu,Bangalore,PROD-060,Office Supplies Paper 192,Office Supplies,Paper,761.5,7,0.1,16.57
+ORD-1091,2019-08-05,2019-08-06,CUS-030,Customer 037,Home Office,India,North,Maharashtra,New Delhi,PROD-022,Furniture Bookcases 196,Furniture,Bookcases,145.88,3,0.1,-6.62
+ORD-1092,2019-07-07,2019-07-11,CUS-014,Customer 029,Corporate,India,North,Maharashtra,Chennai,PROD-076,Office Supplies Art 164,Office Supplies,Art,183.05,6,0.0,35.79
+ORD-1093,2020-01-15,2020-01-18,CUS-023,Customer 026,Corporate,India,South,Tamil Nadu,Chennai,PROD-046,Technology Machines 29,Technology,Machines,602.51,7,0.0,33.46
+ORD-1094,2020-05-07,2020-05-13,CUS-014,Customer 020,Corporate,India,North,Tamil Nadu,New Delhi,PROD-022,Furniture Bookcases 27,Furniture,Bookcases,462.36,7,0.2,22.52
+ORD-1095,2019-02-10,2019-02-15,CUS-019,Customer 005,Corporate,India,East,Telangana,Chennai,PROD-003,Technology Phones 1,Technology,Phones,963.97,8,0.3,-64.76
+ORD-1096,2019-06-06,2019-06-09,CUS-016,Customer 027,Home Office,India,West,Delhi,Mumbai,PROD-072,Office Supplies Paper 60,Office Supplies,Paper,245.36,3,0.3,-8.09
+ORD-1097,2019-01-15,2019-01-19,CUS-003,Customer 029,Home Office,India,South,Maharashtra,New Delhi,PROD-064,Office Supplies Binders 172,Office Supplies,Binders,871.25,5,0.3,-49.9
+ORD-1098,2019-03-06,2019-03-10,CUS-038,Customer 022,Consumer,India,North,Delhi,New Delhi,PROD-002,Furniture Tables 88,Furniture,Tables,624.32,9,0.1,-12.91
+ORD-1099,2020-06-04,2020-06-07,CUS-033,Customer 038,Consumer,India,South,Tamil Nadu,Hyderabad,PROD-041,Technology Phones 136,Technology,Phones,166.59,5,0.1,20.01
+ORD-1100,2019-12-10,2019-12-14,CUS-010,Customer 032,Consumer,India,South,Delhi,New Delhi,PROD-002,Technology Accessories 33,Technology,Accessories,754.18,9,0.0,57.09
+ORD-1101,2019-05-09,2019-05-12,CUS-015,Customer 034,Corporate,India,South,Maharashtra,Mumbai,PROD-044,Furniture Chairs 49,Furniture,Chairs,100.86,4,0.1,4.97
+ORD-1102,2020-10-09,2020-10-11,CUS-028,Customer 020,Corporate,India,East,Karnataka,Mumbai,PROD-062,Technology Phones 111,Technology,Phones,712.35,6,0.0,202.35
+ORD-1103,2020-04-16,2020-04-19,CUS-014,Customer 011,Home Office,India,South,Maharashtra,Chennai,PROD-012,Technology Machines 87,Technology,Machines,98.51,4,0.3,-11.14
+ORD-1104,2019-03-04,2019-03-07,CUS-032,Customer 018,Home Office,India,North,Telangana,Hyderabad,PROD-070,Furniture Chairs 146,Furniture,Chairs,874.35,3,0.2,-28.38
+ORD-1105,2019-05-19,2019-05-23,CUS-029,Customer 015,Home Office,India,West,Maharashtra,Chennai,PROD-007,Technology Accessories 76,Technology,Accessories,345.67,8,0.0,59.91
+ORD-1106,2020-05-13,2020-05-17,CUS-032,Customer 036,Corporate,India,West,Delhi,New Delhi,PROD-066,Furniture Tables 79,Furniture,Tables,961.56,8,0.3,-89.24
+ORD-1107,2020-08-15,2020-08-16,CUS-018,Customer 021,Consumer,India,North,Delhi,Chennai,PROD-015,Office Supplies Paper 99,Office Supplies,Paper,661.91,3,0.2,-52.31
+ORD-1108,2020-01-27,2020-01-28,CUS-014,Customer 039,Corporate,India,South,Telangana,Bangalore,PROD-002,Office Supplies Paper 70,Office Supplies,Paper,196.09,2,0.2,-9.17
+ORD-1109,2020-11-05,2020-11-07,CUS-023,Customer 031,Consumer,India,East,Karnataka,New Delhi,PROD-011,Furniture Bookcases 10,Furniture,Bookcases,325.91,2,0.2,4.62
+ORD-1110,2020-02-23,2020-02-24,CUS-020,Customer 028,Consumer,India,West,Tamil Nadu,New Delhi,PROD-037,Technology Accessories 175,Technology,Accessories,186.36,9,0.0,30.26
+ORD-1111,2019-10-16,2019-10-19,CUS-020,Customer 014,Consumer,India,East,Delhi,Chennai,PROD-002,Furniture Chairs 37,Furniture,Chairs,786.15,8,0.3,-108.81
+ORD-1112,2020-01-14,2020-01-18,CUS-014,Customer 012,Consumer,India,East,Telangana,Bangalore,PROD-020,Office Supplies Binders 181,Office Supplies,Binders,647.2,3,0.1,-3.23
+ORD-1113,2020-05-04,2020-05-05,CUS-038,Customer 020,Home Office,India,North,Tamil Nadu,Mumbai,PROD-023,Office Supplies Art 128,Office Supplies,Art,24.84,2,0.0,5.21
+ORD-1114,2019-08-19,2019-08-20,CUS-008,Customer 029,Consumer,India,West,Maharashtra,Hyderabad,PROD-005,Office Supplies Binders 86,Office Supplies,Binders,160.67,2,0.1,21.41
+ORD-1115,2019-02-10,2019-02-12,CUS-026,Customer 008,Consumer,India,South,Maharashtra,Mumbai,PROD-047,Technology Accessories 113,Technology,Accessories,668.4,7,0.1,29.12
+ORD-1116,2019-01-28,2019-02-03,CUS-026,Customer 028,Consumer,India,West,Telangana,Hyderabad,PROD-066,Technology Phones 192,Technology,Phones,695.74,1,0.0,72.3
+ORD-1117,2019-05-15,2019-05-17,CUS-011,Customer 004,Home Office,India,North,Telangana,Hyderabad,PROD-004,Office Supplies Art 102,Office Supplies,Art,977.63,9,0.0,261.7
+ORD-1118,2019-07-20,2019-07-23,CUS-015,Customer 001,Consumer,India,East,Karnataka,Bangalore,PROD-076,Technology Accessories 199,Technology,Accessories,903.35,9,0.2,-37.13
+ORD-1119,2019-02-02,2019-02-06,CUS-026,Customer 011,Corporate,India,North,Tamil Nadu,New Delhi,PROD-072,Technology Phones 110,Technology,Phones,392.81,9,0.0,42.97
+ORD-1120,2019-02-17,2019-02-19,CUS-029,Customer 026,Consumer,India,West,Maharashtra,New Delhi,PROD-025,Office Supplies Paper 12,Office Supplies,Paper,764.16,9,0.2,-11.01
+ORD-1121,2020-05-17,2020-05-18,CUS-021,Customer 023,Home Office,India,East,Maharashtra,New Delhi,PROD-047,Furniture Tables 117,Furniture,Tables,536.09,4,0.2,-27.56
+ORD-1122,2020-02-11,2020-02-15,CUS-004,Customer 027,Corporate,India,North,Tamil Nadu,Mumbai,PROD-029,Technology Phones 156,Technology,Phones,661.6,3,0.2,-66.63
+ORD-1123,2020-07-27,2020-07-31,CUS-011,Customer 007,Corporate,India,West,Maharashtra,Bangalore,PROD-074,Technology Accessories 39,Technology,Accessories,618.13,2,0.1,11.22
+ORD-1124,2020-12-28,2020-12-29,CUS-007,Customer 001,Corporate,India,South,Delhi,New Delhi,PROD-044,Furniture Bookcases 120,Furniture,Bookcases,714.87,8,0.0,137.13
+ORD-1125,2019-04-09,2019-04-11,CUS-009,Customer 015,Corporate,India,South,Delhi,Bangalore,PROD-010,Furniture Tables 122,Furniture,Tables,130.06,7,0.1,20.13
+ORD-1126,2020-11-14,2020-11-15,CUS-024,Customer 019,Corporate,India,East,Telangana,New Delhi,PROD-060,Furniture Chairs 167,Furniture,Chairs,907.77,8,0.3,-100.62
+ORD-1127,2020-12-26,2021-01-01,CUS-034,Customer 033,Home Office,India,South,Telangana,Bangalore,PROD-021,Office Supplies Binders 150,Office Supplies,Binders,113.62,4,0.1,7.15
+ORD-1128,2020-06-30,2020-07-04,CUS-025,Customer 002,Consumer,India,North,Telangana,Hyderabad,PROD-064,Furniture Bookcases 35,Furniture,Bookcases,245.64,7,0.3,-22.23
+ORD-1129,2020-09-04,2020-09-09,CUS-019,Customer 004,Corporate,India,North,Tamil Nadu,New Delhi,PROD-042,Technology Phones 32,Technology,Phones,682.32,6,0.0,156.52
+ORD-1130,2020-04-06,2020-04-11,CUS-006,Customer 039,Home Office,India,East,Karnataka,Bangalore,PROD-068,Technology Phones 13,Technology,Phones,97.83,8,0.0,26.76
+ORD-1131,2020-10-04,2020-10-07,CUS-003,Customer 022,Consumer,India,South,Tamil Nadu,New Delhi,PROD-070,Furniture Tables 130,Furniture,Tables,676.21,5,0.3,-20.27
+ORD-1132,2019-01-05,2019-01-06,CUS-013,Customer 029,Consumer,India,West,Delhi,Mumbai,PROD-031,Technology Accessories 47,Technology,Accessories,375.69,3,0.1,23.14
+ORD-1133,2019-08-06,2019-08-07,CUS-016,Customer 030,Home Office,India,North,Delhi,New Delhi,PROD-023,Furniture Bookcases 92,Furniture,Bookcases,545.11,9,0.2,21.28
+ORD-1134,2020-05-17,2020-05-20,CUS-022,Customer 018,Corporate,India,North,Telangana,New Delhi,PROD-072,Technology Accessories 32,Technology,Accessories,992.63,8,0.3,-114.16
+ORD-1135,2020-02-02,2020-02-05,CUS-002,Customer 021,Home Office,India,South,Delhi,Bangalore,PROD-002,Furniture Chairs 193,Furniture,Chairs,829.55,6,0.3,-60.4
+ORD-1136,2020-01-28,2020-01-31,CUS-022,Customer 037,Home Office,India,East,Tamil Nadu,Chennai,PROD-012,Technology Machines 49,Technology,Machines,409.04,7,0.1,40.96
+ORD-1137,2019-07-26,2019-07-30,CUS-009,Customer 015,Corporate,India,South,Tamil Nadu,New Delhi,PROD-021,Office Supplies Paper 163,Office Supplies,Paper,821.1,3,0.1,139.17
+ORD-1138,2019-01-15,2019-01-21,CUS-025,Customer 033,Corporate,India,West,Maharashtra,Bangalore,PROD-036,Office Supplies Art 95,Office Supplies,Art,701.05,2,0.1,135.94
+ORD-1139,2020-07-07,2020-07-08,CUS-025,Customer 013,Corporate,India,East,Tamil Nadu,Bangalore,PROD-008,Office Supplies Binders 149,Office Supplies,Binders,614.13,6,0.1,-3.86
+ORD-1140,2020-04-05,2020-04-09,CUS-002,Customer 023,Corporate,India,East,Telangana,Chennai,PROD-031,Office Supplies Binders 5,Office Supplies,Binders,247.9,4,0.1,4.82
+ORD-1141,2020-11-21,2020-11-24,CUS-035,Customer 021,Consumer,India,North,Karnataka,Chennai,PROD-073,Technology Accessories 156,Technology,Accessories,470.6,2,0.1,93.52
+ORD-1142,2020-07-28,2020-07-29,CUS-029,Customer 036,Home Office,India,West,Karnataka,Hyderabad,PROD-038,Office Supplies Paper 178,Office Supplies,Paper,119.02,1,0.3,-10.91
+ORD-1143,2019-08-29,2019-09-02,CUS-005,Customer 002,Corporate,India,South,Telangana,Hyderabad,PROD-062,Technology Phones 149,Technology,Phones,888.87,3,0.2,-16.55
+ORD-1144,2020-07-17,2020-07-23,CUS-026,Customer 021,Consumer,India,North,Karnataka,Hyderabad,PROD-053,Office Supplies Paper 82,Office Supplies,Paper,274.62,7,0.1,-0.71
+ORD-1145,2019-04-06,2019-04-10,CUS-026,Customer 004,Home Office,India,East,Telangana,New Delhi,PROD-034,Furniture Chairs 52,Furniture,Chairs,61.78,1,0.2,-5.16
+ORD-1146,2020-04-29,2020-05-05,CUS-017,Customer 009,Consumer,India,North,Maharashtra,Hyderabad,PROD-041,Office Supplies Art 129,Office Supplies,Art,388.37,4,0.0,64.03
+ORD-1147,2020-02-11,2020-02-14,CUS-034,Customer 008,Home Office,India,West,Telangana,New Delhi,PROD-059,Office Supplies Binders 177,Office Supplies,Binders,293.78,2,0.1,3.9
+ORD-1148,2019-08-19,2019-08-25,CUS-037,Customer 008,Home Office,India,West,Delhi,Bangalore,PROD-077,Technology Phones 87,Technology,Phones,85.32,8,0.0,7.47
+ORD-1149,2020-10-16,2020-10-17,CUS-031,Customer 036,Corporate,India,North,Delhi,Hyderabad,PROD-011,Technology Phones 180,Technology,Phones,90.64,8,0.2,-13.32
